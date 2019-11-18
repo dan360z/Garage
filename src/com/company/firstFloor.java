@@ -1,4 +1,4 @@
 package com.company;
 
-public class firstFloor extends abstractFloor{
+public class firstFloor extends abstractFloor {
 }
